@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm Rajiv 👋  
-🌱 Junior Front-End Developer | Focused on React & JSX  
+🌱 Front-End Developer | Focused on React & TailwindCSS
 ✨ Enthusiastic about building clean, modern, and responsive UIs  
 
 ---
