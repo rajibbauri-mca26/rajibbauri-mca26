@@ -18,14 +18,6 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
-
-
----
-
-## 📊 GitHub Stats
-![Rajiv's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajibbauri-mca26&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajibbauri-mca26&layout=compact&theme=radical)
-
 ---
 
 ## 🌐 Connect with Me
